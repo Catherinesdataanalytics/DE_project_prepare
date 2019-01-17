@@ -14,4 +14,4 @@ As for performance, You must know the workload ratios of reads to writes.
 You need to know if your database engine will maximize one or the other (or both). 
 Also, you should understand that performance may be a result of a tradeoff somewhere else. 
 
-
+[why we use cassandra on aws even if we already have DynamoDB](https://hackernoon.com/how-to-create-simple-cassandra-cluster-on-aws-8407e4d60384)
